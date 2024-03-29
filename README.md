@@ -15,3 +15,8 @@ Este proyecto presenta una PokeAPI desarrollada con HTML, CSS, JavaScript y Vue.
 - **CSS:** Para el diseño y la presentación visual.
 - **JavaScript:** Para la lógica de programación del lado del cliente.
 - **Vue.js:** Un framework progresivo de JavaScript utilizado para construir la interfaz de usuario.
+
+## Captura
+
+![Captura Poke-Api](src/assets/cap1.png)
+> Poke-Api
