@@ -1,24 +1,17 @@
-# pokeapi
+# PokeAPI con HTML, CSS, JS y Vue.js
+¡Visita la [Pokedex-API](https://ljossue.github.io/Pokedex-API/) para verla en acción!
 
-## Project setup
-```
-npm install
-```
+Este proyecto presenta una PokeAPI desarrollada con HTML, CSS, JavaScript y Vue.js, ofreciendo una experiencia interactiva para explorar información sobre Pokémon.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Funcionalidades
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Búsqueda de Pokémon:** Permite buscar Pokémon por nombre o número.
+- **Información detallada:** Proporciona detalles sobre el Pokémon seleccionado, como su nombre, número, tipo y habilidades.
+- **Interfaz intuitiva:** La interfaz de usuario es fácil de usar y permite una navegación fluida.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologías Utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **HTML:** Para la estructura básica del sitio web.
+- **CSS:** Para el diseño y la presentación visual.
+- **JavaScript:** Para la lógica de programación del lado del cliente.
+- **Vue.js:** Un framework progresivo de JavaScript utilizado para construir la interfaz de usuario.
